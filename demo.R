@@ -1,7 +1,5 @@
 # Cats and dogs
 
-setwd(file.path("H-drive", "projects", "r-workgroup-201908"))
-
 # stats
 library(foreign)
 library(survey)
