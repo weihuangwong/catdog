@@ -1,7 +1,6 @@
 # Cats and dogs
 
 # stats
-library(foreign)
 library(survey)
 
 # data
